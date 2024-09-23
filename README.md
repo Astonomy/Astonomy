@@ -8,6 +8,6 @@ Learn C++
 
 Try to attend Supercomputer Challenge
 
-Try to write a 
+Try to write a script to elect courses
 
 ## Nice to meet you🤝
