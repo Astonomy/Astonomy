@@ -1,9 +1,10 @@
 # HELLO WORLD
 ## A student who is intrested in coding
-To do:
 
-Learn C++ 
+Learning: C++, Html, CSS, JavaScript
 
-Try to attend Supercomputer Challenge
+Learned: Digital Photography
+
+Aim: Supercomputer Challenge
 
 ## Nice to meet you🤝
